@@ -1,7 +1,7 @@
 {
     "name": "slush-nww",
     "description": "A slush generator for NW.js, [Bootstrap+Jquery] and Angular",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/jaumesegarra/slush-nww",
     "author": {
         "name": "Jaume Segarra",

@@ -4,6 +4,8 @@ slush-nww
 
 Slush generator for NW.js (Node-Webkit). This generator is a fork of slush-wean but without express and with improved features
 
+As well for [yeoman](https://www.npmjs.com/package/generator-nww)
+
 ## Requirements
 * [Node](https://nodejs.org)
 * [Gulp](http://gulpjs.com/)
