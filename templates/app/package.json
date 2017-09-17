@@ -1,0 +1,30 @@
+{
+    "name": "<%=appNameSlug%>",
+    "version": "0.0.1",
+    "description": "<%= appDescription %>",
+    "repository": "<%= appRepository %>",
+    "license": "<%= appLicense %>",
+    "main": "./app/index.html",
+    "devDependencies": {
+        "gulp": "^3.8.7",
+        "gulp-filter": "^5.0.1",
+        "gulp-shell": "^0.2.9",
+        "gulp-rename": "^1.2.0",
+        "gulp-sass": "^3.1.0",
+        "gulp-main-bower-files": "^1.6.2",
+        "gulp-shell": "^0.2.9",
+        "nw-builder": "latest"
+    },
+    "window": {
+        "title": "<%=appNameSlug%>",
+        "toolbar": false,
+        "frame": true,
+        "position": "center",
+        "fullscreen": false,
+        "resizable": true,
+        "width": 1000,
+        "height": 600,
+        "min_width": 600,
+        "min_height": 400
+    }
+}
